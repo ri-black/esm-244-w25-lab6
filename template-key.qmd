@@ -18,6 +18,8 @@ library(knitr)
 library(kableExtra)
 ```
 
+
+
 ## Random Forests
 
 Random Forests are a powerful machine learning algorithm used extensively in all environmental science and is seeing an increase in use due to the explosion of satellite data. Today in lab we will showcase its performance for both a classification and regression tasks using `tidymodels`. The walkthrough demonstration will pertain to the classification task, while the lab exercise will pertain to the regression task.
